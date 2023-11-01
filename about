@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>Img Src Attribute Example</title>
+  </head>
+  <body>
+    <h5> Họ tên: Lý Minh Nguyên </h5>
+    <h5> Ngày sinh: 14/04/2003 </h5> 
+    <h5> Di động: 0931439408 </h5> 
+  </body>
+</html>
